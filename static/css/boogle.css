@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.main-tittle {
+    display: flex;
+    justify-content: center;
+    font-family: Calibri Light;
+    font-size: 28px;
+    color: #424242;
+}
+
+h2 {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.sub-tittle {
+    display: flex;
+    justify-content: center;
+    font-family: Calibri Light;
+    font-size: 18px;
+    color: #424242;
+}
+
+.login-box {
+    height: 350px;
+    width: 350px;
+    background-color: #eeeeee;
+    box-shadow: 1px 2px #bdbdbd;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.log-image {
+    width: 80px;
+    height: 80px;
+    margin: 40px;
+}
+
+.form {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.botton {
+  background-color: blue;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  font-size: 16px;
+  margin: 20px;
+  border-radius: 20px;
+}
